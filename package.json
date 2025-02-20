@@ -1,0 +1,10 @@
+{
+  "name": "args",
+  "version": "0.1.0",
+  "description": "<1kB CLI flag parser",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
