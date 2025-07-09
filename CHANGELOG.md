@@ -9,3 +9,4 @@
 - chore: clarify the setup steps
 - chore: add a note about the defaults
 - docs: link the usage section
+- chore: add a note about the defaults
