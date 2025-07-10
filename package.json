@@ -1,6 +1,6 @@
 {
   "name": "args",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "<1kB CLI flag parser",
   "main": "src/index.ts",
   "scripts": {
